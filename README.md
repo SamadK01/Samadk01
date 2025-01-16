@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=samadk01&label=Profile%20Views&color=0e75b6&style=flat" alt="samadk01" />
 </p>
 
-- 🔭 **Currently working on**: [HireSide](https://hireside.com)  
+- 🔭 **Currently working on**: [HireSide Mobile App](https://hireside.com)  
 - 🌱 **Currently learning**: Advanced **React Native**  
 - 💬 **Ask me about**: React Native, MERN Stack  
 - 📫 **Reach me at**: [samadkhalid01@gmail.com](mailto:samadkhalid01@gmail.com)  
