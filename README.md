@@ -1,62 +1,52 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
-<h1 align="center">👋 Hi, I'm Samad Khalid</h1>
-<h3 align="center">🚀 React Native Developer | 4+ Years Experience | Building Scalable Mobile Apps</h3>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samadk01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 🔭 **Currently working on**: [HireSide Mobile App](https://hireside.com)  
-- 🌱 **Currently learning**: Advanced **React Native & TypeScript**  
-- 💬 **Ask me about**: React Native, MERN Stack, Firebase  
-- 📫 **Reach me at**: [samadkhalid01@gmail.com](mailto:samadkhalid01@gmail.com)  
-- ⚡ **Fun fact**: I think I’m funny 😄  
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-samad71" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/samadkhalid7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://hashnode.com/@samad1322" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-| Frontend | Backend | Mobile | Tools |
-|----------|---------|--------|-------|
-| React, TypeScript, Redux | Node.js, Express | React Native | Git, Figma, Firebase |
-| HTML, CSS, Bootstrap | MongoDB | Expo | Adobe XD |
-
----
-
-## 📂 Featured Projects
-- [HireSide](https://hireside.com) – Recruitment app built with React Native  
-- [SafcoMicrofinance](#) – Financial services mobile app  
-- [My-App](#) – Demo project showcasing MERN stack integration  
-
----
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=180&section=header&text=Samad%20Khalid&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Mobile%20Application%20Engineer&descAlignY=58&descColor=8b949e&descSize=17" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samadk01&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samadk01&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadk01&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://linkedin.com/in/abdul-samad71"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samadkhalid01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://samad-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=samadk01&style=for-the-badge&color=58a6ff"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samadk01&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3.7%2B+Years+React+Native+Experience;iOS+%26+Android+Production+Apps;TypeScript+%7C+Firebase+%7C+Redux+Toolkit;CI%2FCD+%7C+GitHub+Actions+%7C+Fastlane;Open+to+Relocation+%F0%9F%8C%8D" />
 </p>
+
+👨‍💻 About Me
+
+🔭 Working on HireSide — live on App Store & Google Play
+💼 Currently at Verge Systems, Pakistan (3.7+ years)
+🚀 Specialized in React Native CLI, TypeScript, Firebase & CI/CD
+📍 Open to immediate relocation — Notice Period: 4 Weeks
+📫 Reach me: samadkhalid01@gmail.com | +92 340 2801485
+
+
+🛠️ Tech Stack
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+🚀 Live Apps
+AppPlatformLink📋 Hireside Job PortalAndroidPlay Store📋 Hireside Job PortaliOSApp Store💼 Hireside RecruiterAndroidPlay Store💼 Hireside RecruiteriOSApp Store
+
+📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samadk01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadk01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samadk01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff9944&currStreakLabel=58a6ff"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D1117&height=100&section=footer"/>
+
+
+
+
+
+
+
+
