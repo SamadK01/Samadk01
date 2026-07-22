@@ -20,7 +20,8 @@
 ```typescript
 const samadKhalid = {
   title:       "React Native Developer | Mobile Application Engineer",
-  experience:  "3.7+ years",
+  Overall Experience: "5+ Years",
+  React Native Experience: "4+ Years",
   location:    "Pakistan 🇵🇰 → Open to Immediate Relocation 🌍",
   currentRole: "Verge Systems, Pakistan",
   noticePeriod:"4 Weeks",
@@ -100,7 +101,7 @@ const samadKhalid = {
 ## 💼 Professional Experience
 
 ### 🏢 Verge Systems — React Native Developer
-**Nov 2022 – Present · 3.7+ Years · Pakistan**
+**Nov 2022 – Present · 4+ Years · Pakistan**
 
 > *Sole mobile engineer responsible for end-to-end architecture and delivery of production apps on both platforms.*
 
